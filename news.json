@@ -1,0 +1,22 @@
+{
+  "news": [
+    {
+      "category": "NOUVEAUTÉ",
+      "title": "Bienvenue sur Alyzium",
+      "description": "Le développement du serveur PvP/Faction est officiellement lancé.",
+      "date": "9 septembre 2026"
+    },
+    {
+      "category": "MISE À JOUR",
+      "title": "Alyzium v1.0",
+      "description": "Découvrez les minerais, équipements et nouvelles fonctionnalités d'Alyzium.",
+      "date": "8 septembre 2026"
+    },
+    {
+      "category": "COMMUNAUTÉ",
+      "title": "Préparez votre faction",
+      "description": "Rejoignez l'aventure et préparez-vous à conquérir Alyzium.",
+      "date": "7 septembre 2026"
+    }
+  ]
+}
