@@ -7,7 +7,8 @@
       "date": "9 septembre 2026"
     },
     {
-      "category: "TEST",
+      "category": "TEST",
+      "title": "TEST ACTUALITÉ DYNAMIQUE",
       "description": "Ceci est un test.",
       "date": "BONJOUR"
     },
